@@ -1,6 +1,6 @@
 # AthTrack
 
-1. Main Goal
+## 1. Main Goal
 
 Learn how to develop a web application from scratch.
 
